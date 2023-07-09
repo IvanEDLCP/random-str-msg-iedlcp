@@ -1,2 +1,23 @@
 # random-str-msg-iedlcp
-Random String Messages (Curso NPM Platzi)
+
+Whenever I start a new project, I don't know what to write for the first commit. After doing a “git init” there is technically nothing there...
+
+## Install
+
+```npm
+npm install -g random-str-msg-iedlcp
+```
+
+# Usage
+
+```bash
+ random-str-msg-iedlcp
+```
+
+# Contributing
+
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-str-msg-iedlcp](https://github.com/IvanEDLCP/random-str-msg-iedlcp)
+
+# License
+
+funny-commit is released under the [MIT License](https://opensource.org/licenses/MIT).
